@@ -14,9 +14,9 @@ Please find here the quiz to check your knowledge on Javascript. It has been cre
 
 Please find the relevant links here:
 
-* Live - Website on Github.io: [Click Here](https://alexanderpuschkinberlin.github.io/Code-Generator-2021/)
+* Live - Website on Github.io: [Click Here](https://alexanderpuschkinberlin.github.io/Quiz-2021/)
 
-* Repository on Github: [Click Here](https://github.com/alexanderpuschkinberlin/Code-Generator-2021)
+* Repository on Github: [Click Here](https://github.com/alexanderpuschkinberlin/Quiz-2021)
 
 
 - - -
